@@ -94,12 +94,6 @@ npm start
 
 ---
 
-## 📸 Screenshots
-
-Add screenshots of the login page, dashboard, post feed, and messaging UI here.
-
----
-
 ## 🤝 Contributing
 
 Contributions are welcome! Feel free to open issues or submit pull requests.
